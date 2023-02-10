@@ -1,0 +1,21 @@
+{
+  "description": "Membership NFT of the Building Bricks community.", 
+  "external_url": "https://t.me/+TVSyoWmhASxI98b6", 
+  "image": "https://nftstorage.link/ipfs/bafybeifwqdtqltmj5uoibbkjljiz2iyy2y3qplm3wovpaq7cmltlma2l5i", 
+  "name": "The Brick",
+  "attributes": [
+    {
+      "trait_type": "Type", 
+      "value": "Degen Legend"
+    }, 
+        {
+      "display_type": "boost_percentage", 
+      "trait_type": "Trading Accuracy", 
+      "value": 99
+    }, 
+     {
+      "display_type": "number",
+      "trait_type": "Generation", 
+      "value": "0"
+    },
+}
