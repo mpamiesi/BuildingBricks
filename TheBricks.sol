@@ -11,7 +11,7 @@ contract TheBricks is ERC721, ERC721Enumerable, ERC721URIStorage, ERC721Burnable
     constructor() ERC721("The Bricks", "TBB") {}
 
     function _baseURI() internal pure override returns (string memory) {
-        return "ipfs://bafybeiecu6k5udinhi4ypisv3klunnppnle2ofk4lsfwfex3zhsbro6bii";
+        return "ipfs://bafybeidoohlxw27acqgnk4e5mlekrp6exu6fsneeqadbr4ujbbu5tzhcnm";
     }
 
     function safeMint(address to, uint256 tokenId, string memory uri)
